@@ -1,4 +1,5 @@
-![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg) ![](../../workflows/fpga/badge.svg)
+<img width="3600" height="1680" alt="image" src="https://github.com/user-attachments/assets/cff16e18-0619-40fa-bc76-ee5bba16f4c9" />
+
 
 # Tiny Tapeout Verilog Project Template
 
